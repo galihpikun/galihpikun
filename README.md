@@ -17,8 +17,7 @@
   - facebook : Galih Rakhasiwi (FB in the big 20s gng, pack it  up)
   - or just go to my website [https://glihrakha.vercel.app/](https://glihrakha.vercel.app/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galihpikun&show_icons=true&locale=en&layout=compact" alt="galihpikun" /></p>
-
+## My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galihpikun&show_icons=true&locale=en" alt="galihpikun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galihpikun&" alt="galihpikun" /></p>
